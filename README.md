@@ -4,8 +4,14 @@
 
 ### core skills: collecting data, organizing and storing data, analyzing data, and then visually communicating your insights.
 
-
-
-  ![min_temp_over_year](Resources/min_temp_over_year.png)
+- Weather on Mars is crucially to be considered, thus, we will mainly do pressure and temperature analysis.
+  
+  -- As we can see from the graph that the average pressure by month on Mars is from 750 to 900. In particular, pressure in June is lowest over the year whilist pressure in September is the highest.
   ![avg_pressure](Resources/avg_pressure.png)
+  
+    -- As we can see from the graph that the average min temperature by month on Mars is from -86 to -68. In particular, temperature in June is lowest over the year whilist temperature in September is the highest.
   ![weather_avg_temp](Resources/weather_avg_temp.png)
+
+
+    -- This picture shows the min temperature over the year and it shows cycling.
+  ![min_temp_over_year](Resources/min_temp_over_year.png)
